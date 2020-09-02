@@ -1,0 +1,19 @@
+#job {
+  color :#ff0099;
+}
+body {
+  background-image: url("topography.png");
+  border-spacing: 10%;
+}
+header {
+  background-color: black;
+}
+nav a {
+  color: #ff0099
+  padding 20px;
+}
+div {
+  padding 20px;
+  letter-spacing: 5px;
+  text-align: right;
+}
